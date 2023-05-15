@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/SimpleSystemTask/static/css/main.181e341d.css",
+    "main.js": "/SimpleSystemTask/static/js/main.42fea418.js",
+    "static/js/787.2ef71416.chunk.js": "/SimpleSystemTask/static/js/787.2ef71416.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/SimpleSystemTask/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/SimpleSystemTask/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "index.html": "/SimpleSystemTask/index.html",
+    "main.181e341d.css.map": "/SimpleSystemTask/static/css/main.181e341d.css.map",
+    "main.42fea418.js.map": "/SimpleSystemTask/static/js/main.42fea418.js.map",
+    "787.2ef71416.chunk.js.map": "/SimpleSystemTask/static/js/787.2ef71416.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.181e341d.css",
+    "static/js/main.42fea418.js"
+  ]
+}
