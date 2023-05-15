@@ -20,3 +20,8 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+#Others
+.idea
+node_modules/
+.DS_Store
+package-lock.json
